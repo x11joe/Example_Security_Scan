@@ -1,2 +1,9 @@
-# Example_Security_Scan
-This is a demo project demonstrating the use of Spring Boot Java Framework for the backend while using Docker to handle the environment and a simple REACT design for the frontend.
+# Example Security Scan
+
+This is a demo project demonstrating the use of the following:
+
+* Spring Boot Java Framework for the backend
+* React for the frontend
+* Docker for the enviroment
+
+If there are any questions please direct them to my email: astrahanjoe@gmail.com.  I'm currently looking for full time work as a software engineer in the security field.
